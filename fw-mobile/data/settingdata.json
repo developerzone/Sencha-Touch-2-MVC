@@ -1,0 +1,15 @@
+{
+     "text": "Settings",
+     "items": [{
+         "text": "Alerts & Notifications",
+         "leaf": true
+         },
+     {
+         "text": "Profile",
+          "view": "DetailContainer",
+          "leaf": true
+     }, {
+         "text": "Business",
+          "leaf": true
+     }]
+ }
